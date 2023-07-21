@@ -1,0 +1,11 @@
+1. Create Repository in github
+2. Go to working folder -> create new folder
+3. git clone https://github.com/suresh2k22/InventoryManagementSystem.git
+4. Unhide manually Properties(...) -> View -> Hidden files folder -> copy git folder -> paste working directory -> replace
+5. git init
+6. git add .
+7. git commit -m "first commit"
+8. git push -u origin main
+============================
+
+ 
